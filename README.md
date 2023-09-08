@@ -2,9 +2,9 @@
   <img src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/header.svg"/>
 </p>
 
-<h3 align="center">
+<h2 align="center">
 <samp>I'm <a href="https://www.linkedin.com/in/nishitmehta-/" target="_blank">Nishit Mehta</a> <img src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/giphy.gif" width="25"> </samp>
-</h3>
+</h2>
 <!--
 **nishitxmehta/nishitxmehta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
