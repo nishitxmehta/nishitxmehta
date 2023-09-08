@@ -1,3 +1,6 @@
+<p align="right">
+![](https://komarev.com/ghpvc/?username=nishitxmehta&style=flat-square&color=blue&label=Profile+Views)
+</p>
 <p align="center">
   <img src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/header.svg"/>
 </p>
@@ -6,7 +9,7 @@
 <samp>I'm <a href="https://www.linkedin.com/in/nishitmehta-/" target="_blank">Nishit Mehta</a> <img src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/wavingHand.gif" width="25"> </samp>
 </h1>
 
-### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=nishitxmehta&style=flat-square&color=blue&label=Profile+Views)
+### Glad to see you here!
 
 <p align="center">
   <img src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/footer.svg"/>
