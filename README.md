@@ -9,6 +9,8 @@
 <p align="center">
   <img src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/footer.svg"/>
 </p>
+
+### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=nishitxmehta&style=flat-square&color=blue&label=Profile+Views)
 <!--
 **nishitxmehta/nishitxmehta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
