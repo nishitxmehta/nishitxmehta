@@ -1,6 +1,7 @@
 <p align="right">
-![](https://komarev.com/ghpvc/?username=nishitxmehta&style=flat-square&color=blue&label=Profile+Views)
+  <img src ="https://komarev.com/ghpvc/?username=nishitxmehta&style=flat-square&color=blue&label=Profile+Views"/>
 </p>
+
 <p align="center">
   <img src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/header.svg"/>
 </p>
