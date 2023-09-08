@@ -2,9 +2,9 @@
   <img src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/header.svg"/>
 </p>
 
-<h2 align="center">
+<h1 align="center">
 <samp>I'm <a href="https://www.linkedin.com/in/nishitmehta-/" target="_blank">Nishit Mehta</a> <img src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/giphy.gif" width="25"> </samp>
-</h2>
+</h1>
 
 <p align="center">
   <img src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/footer.svg"/>
