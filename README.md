@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-<samp>I'm <a href="https://www.linkedin.com/in/nishitmehta-/" target="_blank">Nishit Mehta</a> <img src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/giphy.gif" width="25"> </samp>
+<samp>I'm <a href="https://www.linkedin.com/in/nishitmehta-/" target="_blank">Nishit Mehta</a> <img src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/wavingHand.gif" width="25"> </samp>
 </h1>
 
 <p align="center">
