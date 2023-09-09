@@ -11,7 +11,7 @@
 </h1>
 
 <h2 align = "center"> 
-  <samp>A passionate Software Developer from India <img src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/BharatNationalFlag.gif" width="30"> </samp>
+  <samp>A passionate Software Developer from India 🇮🇳 <img src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/BharatNationalFlag.gif" width="30"> </samp>
 </h2>
 
 <p align="center">
