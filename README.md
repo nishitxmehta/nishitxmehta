@@ -7,11 +7,11 @@
 </p>
 
 <h1 align="center">
-  I'm <a href="https://www.linkedin.com/in/nishitmehta-/" target="_blank">Nishit Mehta</a> <img src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/wavingHand.gif" width="25">
+  <samp>I'm <a href="https://www.linkedin.com/in/nishitmehta-/" target="_blank">Nishit Mehta</a> <img src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/wavingHand.gif" width="25"></samp>
 </h1>
 
 <h3 align = "center"> 
-  A passionate Software Developer from India &nbsp<img src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/BharatNationalFlag.gif" width="30">
+  <samp>A passionate Software Developer from India &nbsp<img src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/BharatNationalFlag.gif" width="30"></samp>
 </h3>
 
 <p align="center">
