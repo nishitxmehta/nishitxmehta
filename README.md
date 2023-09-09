@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/header.svg"/>
+  <img src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/readmeHeader.svg"/>
 </p>
 
 <h1 align="center">
@@ -13,7 +13,7 @@
 ### Glad to see you here!
 
 <p align="center">
-  <img src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/footer.svg"/>
+  <img src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/readmeFooter.svg"/>
 </p>
 
 
