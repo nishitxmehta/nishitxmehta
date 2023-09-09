@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/readmeHeader.svg"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header%22/"/>
 </p>
 
 <h1 align="center">
@@ -15,7 +15,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/readmeFooter.svg"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer%22/"/>
 </p>
 
 
