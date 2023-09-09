@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">
-  I'm <a href="https://www.linkedin.com/in/nishitmehta-/" target="_blank">Nishit Mehta</a> <img src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/wavingHand.gif" width="25">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&duration=4000&pause=1000&color=03FF00&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Nishit+Mehta!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB">
 </h1>
 
 <h3 align = "center"> 
