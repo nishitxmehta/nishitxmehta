@@ -18,6 +18,15 @@
 
 <img align="right" alt="GIF" src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/programmer.gif" width="300" height="225" />
 
+**Talking about Personal Stuffs:**
+
+- <img src="" width="21" />&nbsp;&nbsp; I'm currently working on Cryptography;
+- <img src="" width="21" />&nbsp;&nbsp; I'm currently learning Data Structures and Algorithms;
+- <img src="" width="21" />&nbsp;&nbsp; Ask me about anything, I'm happy to help <img src="" width="21" />;
+- <img src="" width="21" />&nbsp;&nbsp; How to reach me: nishitmehta@gmail.com;
+- <img src="" width="21" />&nbsp;&nbsp; Fun Fact: The average computer mouse travels over 1.5 miles (2.4 kilometers) on the screen each day;
+- <img src="" width="21" />&nbsp;&nbsp; [Resume]().
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
