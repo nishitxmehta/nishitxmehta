@@ -1,5 +1,5 @@
 <p align="right">
-  <img src ="https://komarev.com/ghpvc/?username=nishitxmehta&style=flat-square&color=blue&label=Profile+Views"/>
+  <img src ="https://komarev.com/ghpvc/?username=nishitxmehta&style=for-the-badge&color=FFA500&label=Profile+Views"/>
 </p>
 
 <p align="center">
