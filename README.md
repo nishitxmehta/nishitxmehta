@@ -13,8 +13,10 @@
 </h1>
 
 <h3 align="center"> 
-  A passionate Software Developer from India&nbsp&nbsp<img src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/BharatFlag.png" width="25">
+  A passionate Software Developer from India&nbsp&nbsp<img alt="🇮🇳" src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/BharatFlag.png" width="25">
 </h3>
+
+<img align="right" alt="GIF" src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/programmer.gif" width="300" height="225" />
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
