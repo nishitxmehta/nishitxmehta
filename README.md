@@ -11,7 +11,7 @@
 </h1>
 
 <h3 align = "center"> 
-  A passionate Software Developer from India &nbsp<img src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/BharatNationalFlag.gif" width="30">
+  A passionate Software Developer from India &nbsp<img src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/BharatFlag.png" width="30">
 </h3>
 
 <p align="center">
