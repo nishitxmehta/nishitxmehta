@@ -10,8 +10,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Product+Sans&size=35&duration=4000&pause=1000&color=FFA500&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I%27m+Nishit+Mehta!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB">
 </h1>
 
-<h3 align="center" size=100px> 
-  A passionate Software Developer from India &nbsp<img src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/BharatFlag.png" width="30">
+<h3 align="center" 
+  A passionate Software Developer from India &nbsp<img src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/BharatFlag.png" width="25">
 </h3>
 
 <p align="center">
