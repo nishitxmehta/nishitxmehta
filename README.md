@@ -1,6 +1,8 @@
-<p align="right">
-  <img src ="https://komarev.com/ghpvc/?username=nishitxmehta&style=for-the-badge&color=FFA500&label=Profile+Views"/>
-</p>
+<!--
+  <p align="right">
+    <img src ="https://komarev.com/ghpvc/?username=nishitxmehta&style=for-the-badge&color=FFA500&label=Profile+Views"/>
+  </p>
+-->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
