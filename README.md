@@ -20,12 +20,12 @@
 
 **Talking about Personal Stuffs:**
 
-- <img src="" width="21" />&nbsp;&nbsp; I'm currently working on Cryptography;
-- <img src="" width="21" />&nbsp;&nbsp; I'm currently learning Data Structures and Algorithms;
-- <img src="" width="21" />&nbsp;&nbsp; Ask me about anything, I'm happy to help <img src="" width="21" />;
-- <img src="" width="21" />&nbsp;&nbsp; How to reach me: nishitmehta@gmail.com;
-- <img src="" width="21" />&nbsp;&nbsp; Fun Fact: The average computer mouse travels over 1.5 miles (2.4 kilometers) on the screen each day;
-- <img src="" width="21" />&nbsp;&nbsp; [Resume]().
+- <img src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/working.gif" width="21" />&nbsp;&nbsp; I'm currently working on Cryptography;
+- <img src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/learning.gif" width="21" />&nbsp;&nbsp; I'm currently learning Data Structures and Algorithms;
+- <img src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/message.gif" width="21" />&nbsp;&nbsp; Ask me about anything, I'm happy to help&nbsp;&nbsp;<img src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/smiley.gif" width="21" />;
+- <img src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/letterbox.gif" width="21" />&nbsp;&nbsp; How to reach me: nishitmehta@gmail.com;
+- <img src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/lightningBolt.gif" width="21" />&nbsp;&nbsp; Fun Fact: The average computer mouse travels over 1.5 miles (2.4 kilometers) on the screen each day;
+- <img src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/resume.gif" width="21" />&nbsp;&nbsp; [Resume]().
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
