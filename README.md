@@ -18,7 +18,7 @@
 
 <br>
 
-<img align="right" alt="GIF" src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/programmer.gif" width="300" height="225" />
+<img align="right" alt="GIF" src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/programmer.gif" width="350" height="262" />
 
 <h3 align="left"> 
   Talking about Personal Stuffs:
