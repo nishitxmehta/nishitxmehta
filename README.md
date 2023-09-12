@@ -45,8 +45,6 @@
   <img alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=nishitxmehta&theme=vue-dark&card_width=490&show_icons=true&hide_border=true&count_private=true" style="max-width:100%;">
 </p>
 
-<br>
-
 <p align='center'>
   <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishitxmehta&exclude_repo=KNN-Image-Classification&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&langs_count=8" style="max-width:100%;">
 </p>
