@@ -32,7 +32,7 @@
 ---
 
 <h3 align="left"> 
-  <img src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/stats.gif" width="31" />&nbsp;&nbsp; My GitHub Statistics:
+  My GitHub Statistics:
 </h3>
 
 <p align='center'>
