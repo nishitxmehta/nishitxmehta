@@ -29,21 +29,15 @@
 - <img src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/lightningBolt.gif" width="21" />&nbsp;&nbsp; <b>Fun Fact:</b> The average computer mouse travels over 1.5 miles (2.4 kilometers) on the screen each day;
 - <img src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/resume.gif" width="21" />&nbsp;&nbsp; [Resume](https://drive.google.com/file/d/1UpV8q9aZZiKwT_iu8kyoOBFHuwWrG65z/view?usp=drive_link);
 
+<br>
+<br>
+
+<a href='https://github.com/nishitxmehta'>
+  <p align='center'>
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=nishitxmehta&theme=whatsapp-dark" style="max-width:100%;">
+  </p>
+</a>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-
-<a href='https://github.com/nishitxmehta'>
-  <p align='center'>
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=nishitxmehta&theme=whatsapp-dark" style="max-width:100%;">
-  </p>
-</a>
-
-<br>
-<br>
-
-<a href='https://github.com/nishitxmehta'>
-  <p align='center'>
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=nishitxmehta&theme=whatsapp-dark" style="max-width:100%;">
-  </p>
-</a>
