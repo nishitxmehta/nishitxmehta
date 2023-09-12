@@ -39,8 +39,6 @@
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=nishitxmehta&theme=vue-dark&hide_border=true" style="max-width:100%;">
 </p>
 
-<br>
-
 <p align='center'>
   <img alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=nishitxmehta&theme=vue-dark&card_width=490&show_icons=true&hide_border=true&count_private=true" style="max-width:100%;">
 </p>
