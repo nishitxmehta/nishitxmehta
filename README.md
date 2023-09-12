@@ -32,3 +32,18 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
+<a href='https://github.com/nishitxmehta'>
+  <p align='center'>
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=nishitxmehta&theme=whatsapp-dark" style="max-width:100%;">
+  </p>
+</a>
+
+<br>
+<br>
+
+<a href='https://github.com/nishitxmehta'>
+  <p align='center'>
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=nishitxmehta&theme=whatsapp-dark" style="max-width:100%;">
+  </p>
+</a>
