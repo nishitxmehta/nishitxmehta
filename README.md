@@ -42,7 +42,7 @@
 <br>
 
 <p align='center'>
-  <img alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=nishitxmehta&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" style="max-width:100%;">
+  <img alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=nishitxmehta&theme=vue-dark&card_width=490&show_icons=true&hide_border=false&count_private=true" style="max-width:100%;">
 </p>
 
 ---
