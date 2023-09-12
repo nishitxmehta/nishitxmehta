@@ -36,10 +36,9 @@
 </h3>
 
 <p align='center'>
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=nishitxmehta&theme=whatsapp-dark" style="max-width:100%;">
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=nishitxmehta&theme=vue-dark" style="max-width:100%;">
 </p>
 
-<br>
 <br>
 
 <p align='center'>
