@@ -19,7 +19,7 @@
 <img align="right" alt="GIF" src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/programmer.gif" width="350" height="262" />
 
 <h3 align="left"> 
-  Talking about Personal Stuffs:
+  👦 Talking about Personal Stuffs:
 </h3>
 
 - <img src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/working.gif" width="21" />&nbsp;&nbsp; I'm currently working on Cryptography;
@@ -32,7 +32,7 @@
 ---
 
 <h3 align="left"> 
-  My GitHub Statistics:
+  📈 My GitHub Statistics:
 </h3>
 
 <p align='center'>
