@@ -51,6 +51,19 @@
 
 ---
 
+<h3 align="left"> 
+  🔗 Connect with me:
+</h3>
+
+<p align="center">
+<a href="https://twitter.com/nishitmehta_" target="blank"><img align="center" src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nishitmehta-/" target="blank"><img align="center" src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.facebook.com/nishitmehta11/" target="blank"><img align="center" src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="https://www.instagram.com/nishittmehta/" target="blank"><img align="center" src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+</p>
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
