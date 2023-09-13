@@ -32,6 +32,7 @@
 - <img src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/resume.gif" width="21" />&nbsp;&nbsp; [Resume](https://drive.google.com/file/d/1UpV8q9aZZiKwT_iu8kyoOBFHuwWrG65z/view?usp=drive_link);
 
 <br>
+<br>
 
 <div align="center"> 
 <a href="https://www.linkedin.com/in/nishitmehta-/" target="_blank">
