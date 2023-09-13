@@ -75,6 +75,10 @@
 
 ---
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Product+Sans&size=35&duration=4000&pause=1000&color=FFA500&center=true&vCenter=true&width=500&height=70&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+LinkedIn!;I'm+always+down+to+collab+😄">
+</h1>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
