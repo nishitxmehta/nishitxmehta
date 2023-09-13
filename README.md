@@ -44,6 +44,9 @@
   <a href="https://www.instagram.com/nishittmehta/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  <a href="https://www.hackerrank.com/nishitmehta" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-01B761?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
 </div>
 
 ---
