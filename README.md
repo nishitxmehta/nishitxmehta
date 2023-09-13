@@ -55,12 +55,20 @@
   🔗 Connect with me:
 </h3>
 
-<p align="center">
-<a href="https://twitter.com/nishitmehta_" target="blank"><img align="center" src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/nishitmehta-/" target="blank"><img align="center" src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.facebook.com/nishitmehta11/" target="blank"><img align="center" src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://www.instagram.com/nishittmehta/" target="blank"><img align="center" src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-</p>
+<div align="center"> 
+  <a href="https://twitter.com/nishitmehta_" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" alt="Twitter" height="40" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/nishitmehta-/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40" width="40" />
+  </a>
+  <a href="https://www.facebook.com/nishitmehta11/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-0165E1?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="40" width="40" />
+  </a>
+  <a href="https://www.instagram.com/nishittmehta/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="40" width="40" />
+  </a>
+</div>
 
 ---
 
