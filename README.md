@@ -57,16 +57,16 @@
 
 <div align="center"> 
   <a href="https://twitter.com/nishitmehta_" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" alt="Twitter" height="40" width="40" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" alt="Twitter" />
   </a>
   <a href="https://www.linkedin.com/in/nishitmehta-/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/nishitmehta11/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-0165E1?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="40" width="40" />
+    <img src="https://img.shields.io/badge/Facebook-0165E1?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://www.instagram.com/nishittmehta/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="40" width="40" />
+    <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
 
