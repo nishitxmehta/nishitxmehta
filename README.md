@@ -31,6 +31,8 @@
 - <img src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/lightningBolt.gif" width="21" />&nbsp;&nbsp; <b>Fun Fact:</b> The average computer mouse travels over 1.5 miles (2.4 kilometers) on the screen each day;
 - <img src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/resume.gif" width="21" />&nbsp;&nbsp; [Resume](https://drive.google.com/file/d/1UpV8q9aZZiKwT_iu8kyoOBFHuwWrG65z/view?usp=drive_link);
 
+<br>
+
 <div align="center"> 
 <a href="https://www.linkedin.com/in/nishitmehta-/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
