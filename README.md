@@ -16,7 +16,7 @@
   A passionate Software Developer from India&nbsp&nbsp<img alt="🇮🇳" src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/BharatFlag.png" width="25">
 </h3>
 
-<br>
+---
 
 <img align="right" alt="GIF" src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/programmer.gif" width="350" height="262" />
 
