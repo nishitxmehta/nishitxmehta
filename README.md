@@ -30,14 +30,19 @@
 - <img src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/resume.gif" width="21" />&nbsp;&nbsp; [Resume](https://drive.google.com/file/d/1FGtUM9m_AgUZHWWZxyERUHdoqx73IY_X/view?usp=share_link);
 
 <br>
+
+<p align='center'>
+  <img alt="Hacktoberfest 2023 Badges" src="https://holopin.me/nishitxmehta" style="max-width:100%;">
+</p>
+
 <br>
 
 <div align="center"> 
-<a href="https://www.linkedin.com/in/nishitmehta-/" target="_blank">
+  <a href="https://www.linkedin.com/in/nishitmehta-/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/nishitmehta_" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" target="_blank" alt="Twitter" />
   </a>
   <a href="https://www.facebook.com/nishitmehta11/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-0165E1?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
@@ -66,16 +71,6 @@
 
 <p align='center'>
   <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishitxmehta&exclude_repo=KNN-Image-Classification&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&langs_count=8&card_width=495" style="max-width:100%;">
-</p>
-
----
-
-<h3 align="left"> 
-  💻 Hacktoberfest 2023 Badges
-</h3>
-
-<p align='center'>
-  <img alt="Hacktoberfest 2023 Badges" src="https://holopin.me/nishitxmehta" style="max-width:100%;">
 </p>
 
 ---
