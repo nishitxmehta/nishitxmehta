@@ -27,7 +27,7 @@
 - <img src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/message.gif" width="21" />&nbsp;&nbsp; Ask me about anything, I'm happy to help&nbsp;😄;
 - <img src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/letterbox.gif" width="21" />&nbsp;&nbsp; <b>How to reach me:</b> nishitmehta@gmail.com;
 - <img src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/lightningBolt.gif" width="21" />&nbsp;&nbsp; <b>Fun Fact:</b> The average computer mouse travels over 1.5 miles (2.4 kilometers) on the screen each day;
-- <img src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/resume.gif" width="21" />&nbsp;&nbsp; [Resume](https://drive.google.com/file/d/1FGtUM9m_AgUZHWWZxyERUHdoqx73IY_X/view?usp=share_link);
+- <img src="https://github.com/nishitxmehta/nishitxmehta/blob/main/assest/resume.gif" width="21" />&nbsp;&nbsp; [Resume](https://drive.google.com/drive/folders/1OT5DguT3523fouSM04heY6nn32YjnOLk);
 
 <br>
 
